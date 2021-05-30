@@ -1,3 +1,5 @@
+_Copied from https://github.com/ACodingFish/LogitechGMouseFix (May 29, 2021)_
+
 # Logitech Gaming Mouse Fix
 This is a repo created to help fix an issue prevalent in Logitech Gaming Mice. I had some free time, so I thought I'd solve it. I also thought it would be good to learn a new language (lua) and solve this issue to the best that my ability and free time allows. Programming is my passion (if you can't already tell by the fact that I'm doing this).
 
